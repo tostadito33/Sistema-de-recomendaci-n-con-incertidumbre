@@ -1,0 +1,312 @@
+Tipo,Nivel de complejidad,Rango de precio,Portabilidad,Popularidad,Tipo de sonido,Ruido,Necesidad de cambiar con los años,Mantenimiento,Nombre_instrumento,Intruemnto,Precio_real
+Cuerda,Alto,Medio,Moderada,Alta,Acústico,Bajo,No,Medio,Stentor SR1102,Violonchelo,848
+Cuerda,Alto,Medio,Moderada,Alta,Acústico,Bajo,No,Bajo,Yamaha VC5S44,Violonchelo,749
+Cuerda,Medio,Económico,Moderada,Media,Acústico,Bajo,No,Medio,Roth & Junius RJC,Violonchelo,539
+Cuerda,Alto,Alto,Moderada,Alta,Acústico,Bajo,No,Alto,Lothar Semmlinger No. 135A,Violonchelo,2783
+Cuerda,Medio,Medio,Moderada,Alta,Acústico,Bajo,No,Medio,Thomann Student Cello Set 4/4,Violonchelo,339
+Cuerda,Medio,Medio,Moderada,Alta,Acústico,Bajo,No,Medio,Stentor Elysia,Violonchelo,2200
+Cuerda,Bajo,Económico,Moderada,Alta,Acústico,Bajo,No,Bajo,Primavera 90,Violonchelo,566.
+Cuerda,Alto,Medio,Difícil,Media,Acústico,Bajo,No,Medio,Roth & Junius Europe 4/4,Violonchelo,949
+Cuerda,Medio,Alto,Difícil,Alta,Acústico,Bajo,No,Alto,Lothar Semmlinger No. 200,Violonchelo,3680
+Cuerda,Bajo,Económico,Fácil,Media,Acústico,Bajo,No,Bajo,Gewa Allegro VC1,Violonchelo,799
+Cuerda,Bajo,Económico,Fácil,Alta,Acústico,Bajo,Sí,Bajo,Stentor Student 1/4,Violonchelo,249
+Cuerda,Bajo,Económico,Fácil,Media,Acústico,Bajo,Sí,Bajo,Primavera 90 1/2,Violonchelo,199
+Cuerda,Medio,Medio,Moderada,Alta,Acústico,Bajo,Sí,Medio,Thomann Classic Cello Set 3/4,Violonchelo,320
+Cuerda,Bajo,Económico,Fácil,Alta,Acústico,Bajo,Sí,Bajo,Cremona SC-130 1/4,Violonchelo,280
+Cuerda,Bajo,Económico,Fácil,Media,Acústico,Bajo,Sí,Bajo,Yamaha AVC5 1/2,Violonchelo,400
+Cuerda,Alto,Alto,Moderada,Alta,Eléctrico,Medio,No,Medio,NS Design CR4,Violonchelo,3500
+Cuerda,Alto,Alto,Moderada,Media,Eléctrico,Alto,No,Alto,Yamaha SVC-210,Violonchelo,4500
+Cuerda,Medio,Alto,Fácil,Baja,Eléctrico,Bajo,No,Bajo,Wood Violins Viper,Violonchelo,3300
+Cuerda,Medio,Económico,Fácil,Alta,Acústico,Bajo,No,Medio,Stentor Student II 4/4,Violín,200
+Cuerda,Bajo,Económico,Fácil,Alta,Acústico,Bajo,Sí,Bajo,Cremona SV-130 1/4,Violín,150
+Cuerda,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Yamaha V5SC 4/4,Violín,600
+Cuerda,Alto,Alto,Moderada,Alta,Acústico,Bajo,No,Medio,D Z Strad Model 220,Violín,1300
+Cuerda,Bajo,Económico,Fácil,Media,Acústico,Bajo,Sí,Bajo,Cecilio CVN-300,Violín,180
+Cuerda,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Eastman VL100 4/4,Violín,700
+Cuerda,Alto,Alto,Moderada,Alta,Acústico,Bajo,No,Medio,Scott Cao 750E,Violín,1500
+Cuerda,Medio,Económico,Fácil,Alta,Acústico,Bajo,Sí,Medio,Primavera 200,Violín,250
+Cuerda,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Fiddlerman Artist Violin,Violín,650
+Cuerda,Alto,Alto,Moderada,Alta,Acústico,Bajo,No,Medio,Gliga Genial 4/4,Violín,1200
+Cuerda,Bajo,Económico,Fácil,Media,Acústico,Bajo,Sí,Bajo,Paititi PV-100,Violín,130
+Cuerda,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Kennedy Violins Louis Carpini G2,Violín,650
+Cuerda,Alto,Alto,Moderada,Alta,Acústico,Bajo,No,Medio,Holstein Bench Cannone,Violín,3000
+Cuerda,Bajo,Económico,Fácil,Media,Acústico,Bajo,Sí,Bajo,Mendini MV300,Violín,120
+Cuerda,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Franz Hoffmann Amadeus,Violín,500
+Cuerda,Medio,Económico,Fácil,Media,Acústico,Bajo,Sí,Bajo,Eastar EVA-3,Violín,90
+Cuerda,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Antonio Giuliani Etude,Violín,400
+Cuerda,Medio,Económico,Fácil,Media,Acústico,Bajo,No,Medio,Cremona SVA-130 Premier Student Viola,Viola,300
+Cuerda,Bajo,Económico,Fácil,Media,Acústico,Bajo,Sí,Bajo,Stentor Student Viola 15'',Viola,200
+Cuerda,Alto,Alto,Moderada,Alta,Acústico,Bajo,No,Medio,D Z Strad Viola Model 101,Viola,1200
+Cuerda,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Kennedy Violins Ricard Bunnel Premier Viola,Viola,500
+Cuerda,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Bajo,Cecilio CVA-400,Viola,400
+Cuerda,Bajo,Económico,Fácil,Media,Acústico,Bajo,Sí,Bajo,Mendini MA-250,Viola,180
+Cuerda,Medio,Medio,Moderada,Alta,Acústico,Bajo,No,Medio,Fiddlerman Artist Viola,Viola,700
+Cuerda,Alto,Alto,Moderada,Alta,Acústico,Bajo,No,Medio,Holstein Traditional Viola,Viola,2500
+Cuerda,Bajo,Económico,Fácil,Media,Acústico,Bajo,Sí,Bajo,Eastar EVA-2,Viola,140
+Cuerda,Medio,Medio,Moderada,Alta,Acústico,Bajo,No,Medio,Antonio Giuliani Primo Viola,Viola,450
+Cuerda,Alto,Medio,Difícil,Alta,Acústico,Bajo,No,Alto,Thomann 111E Double Bass 3/4,Contrabajo,1200
+Cuerda,Medio,Medio,Difícil,Media,Acústico,Medio,No,Medio,Gewa Double Bass Basic 3/4,Contrabajo,950
+Cuerda,Alto,Alto,Difícil,Alta,Acústico,Bajo,No,Alto,Lemur Music Liberty Bell 3/4,Contrabajo,3500
+Cuerda,Medio,Medio,Difícil,Media,Acústico,Medio,No,Medio,Eastman VB95 Hybrid 3/4,Contrabajo,2400
+Cuerda,Bajo,Económico,Difícil,Baja,Acústico,Bajo,Sí,Bajo,Thomann 88 3/4,Contrabajo,800
+Cuerda,Bajo,Medio,Difícil,Media,Acústico,Medio,Sí,Medio,Gewa Allegro Double Bass 1/4,Contrabajo,1200
+Cuerda,Medio,Alto,Difícil,Alta,Acústico,Medio,No,Medio,Stentor Student Double Bass 3/4,Contrabajo,2000
+Cuerda,Medio,Medio,Difícil,Media,Acústico,Medio,No,Medio,Yamaha Silent Bass SLB300,Contrabajo,4500
+Cuerda,Alto,Alto,Difícil,Alta,Eléctrico,Bajo,No,Bajo,Ned Steinberger CR5M Electric Bass,Contrabajo,4700
+Cuerda,Medio,Económico,Difícil,Baja,Acústico,Bajo,Sí,Bajo,Hora Student Bass 1/4,Contrabajo,650
+Cuerda,Bajo,Económico,Difícil,Media,Acústico,Bajo,Sí,Bajo,Roth & Junius Europe Double Bass 1/2,Contrabajo,900
+Cuerda,Bajo,Económico,Fácil,Alta,Acústico,Bajo,No,Bajo,Yamaha C40,Guitarra,150
+Cuerda,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Córdoba C5,Guitarra,400
+Cuerda,Alto,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Alhambra 4P,Guitarra,700
+Cuerda,Medio,Económico,Fácil,Media,Acústico,Bajo,No,Bajo,Thomann Classic 4/4,Guitarra,120
+Cuerda,Alto,Alto,Fácil,Alta,Acústico,Bajo,No,Alto,Raimundo 660,Guitarra,1800
+Cuerda,Bajo,Medio,Fácil,Alta,Acústico,Bajo,Sí,Medio,Admira Juanita,Guitarra,250
+Cuerda,Medio,Medio,Fácil,Media,Acústico,Bajo,No,Medio,Kremona Fiesta FC,Guitarra,900
+Cuerda,Medio,Alto,Fácil,Alta,Acústico,Bajo,No,Medio,Alhambra 7P,Guitarra,1200
+Cuerda,Bajo,Económico,Fácil,Alta,Acústico,Bajo,Sí,Bajo,Valencia VC102,Guitarra,100
+Cuerda,Alto,Alto,Fácil,Alta,Acústico,Bajo,No,Alto,Hermanos Conde FC26,Guitarra,3000
+Cuerda,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Manuel Rodríguez C1,Guitarra,500
+Cuerda,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,La Patrie Etude,Guitarra,600
+Cuerda,Medio,Alto,Fácil,Alta,Acústico,Bajo,No,Medio,Córdoba C9,Guitarra,1000
+Cuerda,Bajo,Económico,Fácil,Media,Acústico,Bajo,Sí,Bajo,Yamaha C70,Guitarra,200
+Cuerda,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Admira Sevilla,Guitarra,350
+Cuerda,Medio,Alto,Fácil,Alta,Eléctrico,Alto,No,Medio,Fender American Professional II Stratocaster,Guitarra,1600
+Cuerda,Alto,Alto,Fácil,Alta,Eléctrico,Alto,No,Alto,Gibson Les Paul Standard '50s,Guitarra,2500
+Cuerda,Medio,Medio,Fácil,Media,Eléctrico,Alto,No,Medio,PRS SE Custom 24,Guitarra,800
+Cuerda,Bajo,Medio,Fácil,Alta,Eléctrico,Medio,No,Bajo,Ibanez RG450DX,Guitarra,650
+Cuerda,Alto,Alto,Moderada,Media,Eléctrico,Alto,No,Alto,Music Man John Petrucci Majesty,Guitarra,2500
+Cuerda,Medio,Alto,Moderada,Alta,Eléctrico,Alto,No,Alto,Fender American Professional II Precision Bass,Bajo,1500
+Cuerda,Medio,Alto,Fácil,Alta,Eléctrico,Alto,No,Medio,Music Man StingRay 5,Bajo,2200
+Cuerda,Medio,Medio,Fácil,Media,Eléctrico,Alto,No,Medio,Squier by Fender Classic Vibe 60's Precision Bass,Bajo,450
+Cuerda,Alto,Alto,Moderada,Media,Eléctrico,Alto,No,Alto,Ibanez SR1305E,Bajo,2000
+Cuerda,Medio,Medio,Fácil,Baja,Eléctrico,Medio,No,Bajo,Ibanez GSR200,Bajo,250
+Cuerda,Bajo,Económico,Difícil,Alta,Acústico,Bajo,No,Bajo,Yamaha P-45,Piano,500
+Cuerda,Medio,Medio,Difícil,Alta,Acústico,Bajo,No,Medio,Korg B2,Piano,450
+Cuerda,Alto,Alto,Difícil,Alta,Eléctrico,Medio,No,Alto,Steinway & Sons Model D,Piano,150000
+Cuerda,Medio,Alto,Difícil,Alta,Acústico,Bajo,No,Medio,Bösendorfer 280,Piano,100000
+Cuerda,Medio,Medio,Difícil,Alta,Acústico,Bajo,No,Medio,Fazioli F278,Piano,120000
+Cuerda,Bajo,Económico,Difícil,Alta,Acústico,Bajo,No,Bajo,Casio CDP-S100,Piano,350
+Cuerda,Medio,Medio,Difícil,Alta,Acústico,Bajo,No,Medio,Kawai ES110,Piano,600
+Cuerda,Bajo,Económico,Difícil,Alta,Acústico,Bajo,No,Bajo,Yamaha YDP-144,Piano,600
+Cuerda,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Steinway & Sons Model B,Piano,90000
+Cuerda,Medio,Medio,Difícil,Media,Acústico,Bajo,No,Medio,Roland FP-30,Piano,700
+Cuerda,Alto,Alto,Difícil,Alta,Eléctrico,Medio,No,Alto,Yamaha Disklavier ENSPIRE,Piano,25000
+Cuerda,Medio,Medio,Difícil,Alta,Acústico,Bajo,No,Medio,Kawai KDP110,Piano,700
+Cuerda,Alto,Alto,Difícil,Alta,Eléctrico,Bajo,No,Alto,Clavinova Yamaha CLP-685,Piano,3500
+Cuerda,Medio,Alto,Difícil,Alta,Acústico,Bajo,No,Medio,Bechstein Concert 8,Piano,55000
+Cuerda,Medio,Medio,Difícil,Alta,Acústico,Bajo,No,Medio,Samick SG 180,Piano,2000
+Cuerda,Bajo,Económico,Difícil,Alta,Acústico,Bajo,No,Bajo,Acorn Master 88,Piano,300
+Cuerda,Medio,Medio,Difícil,Alta,Acústico,Bajo,No,Medio,Schimmel C116,Piano,13000
+Cuerda,Alto,Alto,Difícil,Alta,Eléctrico,Medio,No,Alto,Korg SV-2,Piano,2000
+Cuerda,Alto,Medio,Difícil,Alta,Acústico,Bajo,No,Medio,Yamaha U1,Piano,8000
+Cuerda,Medio,Medio,Difícil,Alta,Acústico,Bajo,No,Medio,Pleyel Concert Grand,Piano,25000
+Cuerda,Alto,Alto,Difícil,Alta,Acústico,Bajo,No,Alto,Bösendorfer 170,Piano,60000
+Cuerda,Medio,Alto,Difícil,Alta,Acústico,Bajo,No,Medio,Petrof 118,Piano,15000
+Cuerda,Bajo,Medio,Difícil,Alta,Acústico,Bajo,No,Medio,Essex EUP-108,Piano,3500
+Cuerda,Medio,Medio,Fácil,Alta,Eléctrico,Medio,No,Medio,Yamaha CP88,Piano,2500
+Cuerda,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Bösendorfer 280,Piano,80000
+Cuerda,Medio,Medio,Fácil,Alta,Eléctrico,Medio,No,Medio,Korg SV-1,Piano,1500
+Cuerda,Bajo,Económico,Fácil,Alta,Eléctrico,Bajo,No,Bajo,Arturia Keylab 88,Piano,550
+Cuerda,Medio,Medio,Difícil,Alta,Acústico,Bajo,No,Medio,Blüthner 6'3" Grand Piano,Piano,18000
+Cuerda,Alto,Alto,Difícil,Alta,Acústico,Bajo,No,Alto,Steinway & Sons Model A,Piano,130000
+Viento madera,Bajo,Económico,Fácil,Media,Acústico,Bajo,No,Bajo,Clarinetto Student,Clarinete,199
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Bajo,No,Medio,Yamaha YCL-255,Clarinete,300
+Viento madera,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Buffet Crampon E11,Clarinete,850
+Viento madera,Alto,Alto,Moderada,Alta,Acústico,Bajo,No,Alto,Selmer Paris Series 9,Clarinete,2700
+Viento madera,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,LeBlanc Concerto,Clarinete,1200
+Viento madera,Bajo,Económico,Fácil,Media,Acústico,Bajo,No,Bajo,Jean Paul USA CL-300,Clarinete,100
+Viento madera,Alto,Alto,Difícil,Alta,Acústico,Medio,No,Alto,Buffet Crampon R13,Clarinete,2500
+Viento madera,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Laureat by SML,Clarinete,550
+Viento madera,Alto,Alto,Moderada,Alta,Acústico,Bajo,No,Alto,Selmer Paris Signature,Clarinete,3200
+Viento madera,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Adolphe Sax Clarinet,Clarinete,650
+Viento madera,Alto,Alto,Moderada,Alta,Acústico,Medio,No,Alto,Vandoren V16,Clarinete,1500
+Viento madera,Bajo,Económico,Fácil,Media,Acústico,Bajo,No,Bajo,Jupiter JCL700,Clarinete,250
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Bajo,No,Medio,Howarth S10,Clarinete,950
+Viento madera,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Rico Royal 3,Clarinete,100
+Viento madera,Alto,Alto,Moderada,Alta,Acústico,Bajo,No,Alto,Brio 1000 Professional,Clarinete,2800
+Viento madera,Medio,Alto,Moderada,Alta,Acústico,Bajo,No,Medio,Moosmann 300,Clarinete,1200
+Viento madera,Bajo,Económico,Fácil,Media,Acústico,Bajo,No,Bajo,Karas Clarinet,Clarinete,180
+Viento madera,Bajo,Económico,Fácil,Media,Acústico,Bajo,No,Bajo,Yamaha YFL-222,Flauta,450
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Bajo,No,Medio,Azumi AZ2,Flauta,900
+Viento madera,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Penzel & Hellas PH21,Flauta,650
+Viento madera,Alto,Alto,Moderada,Alta,Acústico,Bajo,No,Alto,Gemeinhardt 3SHB,Flauta,1800
+Viento madera,Bajo,Económico,Fácil,Media,Acústico,Bajo,No,Bajo,Pearl 505,Flauta,350
+Viento madera,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Artley 17B,Flauta,600
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Bajo,No,Medio,Haynes Amadeus 450,Flauta,1200
+Viento madera,Alto,Alto,Moderada,Alta,Acústico,Bajo,No,Alto,Buffet Crampon R13,Flauta,2500
+Viento madera,Bajo,Económico,Fácil,Media,Acústico,Bajo,No,Bajo,Jupiter JFL700,Flauta,275
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Bajo,No,Medio,Yamaha YFL-381,Flauta,950
+Viento madera,Alto,Alto,Difícil,Alta,Acústico,Medio,No,Alto,Sankyo B580,Flauta,4000
+Viento madera,Bajo,Económico,Fácil,Media,Acústico,Bajo,No,Bajo,Buffet Crampon 406,Flauta,300
+Viento madera,Medio,Medio,Fácil,Alta,Acústico,Bajo,No,Medio,Selmer Paris S1,Flauta,1200
+Viento madera,Alto,Alto,Moderada,Alta,Acústico,Bajo,No,Alto,Brannen Cooper Classic,Flauta,5000
+Viento madera,Bajo,Económico,Fácil,Alta,Acústico,Bajo,No,Bajo,Armstrong 104,Flauta,220
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Bajo,No,Medio,Altus 907,Flauta,1250
+Viento madera,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Fox 201,Fagot,8200
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Alto,No,Medio,Heckel 111,Fagot,6500
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Alto,No,Medio,Buffet Crampon 119,Fagot,4000
+Viento madera,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Moosmann 200,Fagot,9500
+Viento madera,Medio,Medio,Moderada,Media,Acústico,Alto,No,Medio,Schreiber 130,Fagot,2500
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Alto,No,Medio,Linton Fagotto,Fagot,3200
+Viento madera,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Seesselberg Fagot,Fagot,7200
+Viento madera,Bajo,Económico,Fácil,Media,Acústico,Medio,No,Bajo,Sonare Fagot,Fagot,1700
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Alto,No,Medio,Renard 222,Fagot,4400
+Viento madera,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Marigaux M2,Fagot,9800
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Alto,No,Medio,Winzer 200,Fagot,3800
+Viento madera,Bajo,Económico,Fácil,Media,Acústico,Medio,No,Bajo,Laubin Model 800,Fagot,2200
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Alto,No,Medio,Sabelot 500,Fagot,3000
+Viento madera,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Fox Renard Model,Fagot,7500
+Viento madera,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Heckel 101,Oboe,8500
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Alto,No,Medio,Buffet Crampon 406,Oboe,3900
+Viento madera,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Marigaux 2001,Oboe,9500
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,F. Lorée Royal,Oboe,4800
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Oboe Loree 125,Oboe,5600
+Viento madera,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Tomasi Oboe,Oboe,7400
+Viento madera,Medio,Medio,Moderada,Media,Acústico,Medio,No,Medio,Howarth S20,Oboe,4000
+Viento madera,Bajo,Económico,Fácil,Media,Acústico,Medio,No,Bajo,Schreiber 113,Oboe,2200
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Marigaux 901,Oboe,3200
+Viento madera,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Winzer Oboe,Oboe,6500
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Selmer Oboe,Oboe,4500
+Viento madera,Bajo,Económico,Fácil,Baja,Acústico,Bajo,No,Bajo,Columbia Oboe,Oboe,1500
+Viento madera,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Woodwind & Brasswind Oboe,Oboe,7800
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Marigaux 200,Oboe,4200
+Viento madera,Alto,Alto,Moderada,Alta,Acústico,Alto,No,Alto,Selmer Mark VI Tenor,Saxofón,5800
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Alto,No,Medio,Yamaha YAS-280,Saxofón,650
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Conn 10M Tenor,Saxofón,2200
+Viento madera,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Keilwerth SX90R,Saxofón,3200
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Eastman EAS660,Saxofón,1100
+Viento madera,Alto,Alto,Moderada,Alta,Acústico,Alto,No,Alto,Selmer Reference 54,Saxofón,4300
+Viento madera,Medio,Alto,Moderada,Alta,Acústico,Medio,No,Medio,Armstrong 800,Saxofón,1400
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Buffet Crampon 400,Saxofón,1200
+Viento madera,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Yamaha YTS-82Z,Saxofón,3800
+Viento madera,Bajo,Económico,Fácil,Media,Acústico,Bajo,No,Bajo,Glory Alto Sax,Saxofón,300
+Viento madera,Medio,Medio,Moderada,Media,Acústico,Medio,No,Medio,Victor Classic Tenor,Saxofón,900
+Viento madera,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Saxco Professional,Saxofón,4800
+Viento madera,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Jean Paul USA AS-400,Saxofón,700
+Viento madera,Bajo,Económico,Fácil,Baja,Acústico,Bajo,No,Bajo,Mendini by Cecilio,Saxofón,200
+Viento metal,Medio,Alto,Fácil,Alta,Acústico,Alto,No,Alto,Bach Stradivarius 180S37,Trompeta,4000
+Viento metal,Medio,Medio,Fácil,Alta,Acústico,Medio,No,Medio,Yamaha YTR-2330,Trompeta,650
+Viento metal,Alto,Alto,Fácil,Alta,Acústico,Alto,No,Alto,Monette Prana B5,Trompeta,7500
+Viento metal,Medio,Medio,Fácil,Alta,Acústico,Medio,No,Medio,Getzen 900 Series,Trompeta,1200
+Viento metal,Alto,Alto,Fácil,Alta,Acústico,Alto,No,Alto,Schilke B5,Trompeta,3500
+Viento metal,Medio,Medio,Fácil,Alta,Acústico,Medio,No,Medio,Jupiter JTR700,Trompeta,450
+Viento metal,Medio,Medio,Fácil,Alta,Acústico,Medio,No,Medio,Cannonball Big Bell,Trompeta,1300
+Viento metal,Bajo,Económico,Fácil,Media,Acústico,Bajo,No,Bajo,Kaizer TRP-700,Trompeta,150
+Viento metal,Alto,Alto,Fácil,Alta,Acústico,Alto,No,Alto,King 2055 Silver Flair,Trompeta,2200
+Viento metal,Medio,Alto,Fácil,Alta,Acústico,Medio,No,Medio,Selmer Paris Concept,Trompeta,2700
+Viento metal,Medio,Medio,Fácil,Alta,Acústico,Medio,No,Medio,Bach TR300H,Trompeta,500
+Viento metal,Alto,Alto,Fácil,Alta,Acústico,Alto,No,Alto,Edwards Trumpets TX, Trompeta,5000
+Viento metal,Medio,Medio,Fácil,Media,Acústico,Medio,No,Medio,Prelude TR711,Trompeta,300
+Viento metal,Alto,Alto,Fácil,Alta,Acústico,Alto,No,Alto,Leblanc Leblanc 500,Trompeta,3800
+Viento metal,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Conn 8D,Trompa,6500
+Viento metal,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Yamaha YHR-567,Trompa,2500
+Viento metal,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Holton H179,Trompa,7000
+Viento metal,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,King 1120,Trompa,1200
+Viento metal,Medio,Alto,Moderada,Alta,Acústico,Medio,No,Medio,Getzen 900S,Trompa,1800
+Viento metal,Medio,Medio,Fácil,Alta,Acústico,Medio,No,Medio,Meinl Weston 77,Trompa,1500
+Viento metal,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Schilke 51,Trompa,4600
+Viento metal,Medio,Medio,Fácil,Alta,Acústico,Medio,No,Medio,Yamaha YHR-314,Trompa,1100
+Viento metal,Bajo,Económico,Fácil,Media,Acústico,Bajo,No,Bajo,Conn 6D,Trompa,800
+Viento metal,Medio,Alto,Moderada,Alta,Acústico,Medio,No,Medio,Selmer Paris 304,Trompa,3500
+Viento metal,Medio,Medio,Fácil,Alta,Acústico,Medio,No,Medio,Alexander 103,Trompa,2300
+Viento metal,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,TrumCor DC-8,Trompa,5500
+Viento metal,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Fox 601,Trompa,2800
+Viento metal,Medio,Alto,Fácil,Alta,Acústico,Medio,No,Medio,Schmidt 25,Trompa,3200
+Viento metal,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Bach 42BO,Trombón,2200
+Viento metal,Medio,Alto,Moderada,Alta,Acústico,Alto,No,Alto,Conn 88H,Trombón,3500
+Viento metal,Medio,Alto,Moderada,Alta,Acústico,Alto,No,Alto,Yamaha YSL-882O,Trombón,4000
+Viento metal,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Holton TR180,Trombón,5200
+Viento metal,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Getzen 3508,Trombón,1500
+Viento metal,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Jupiter JTB710,Trombón,1000
+Viento metal,Medio,Alto,Difícil,Alta,Acústico,Alto,No,Alto,King 2B,Trombón,2800
+Viento metal,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Shires Custom,Trombón,7500
+Viento metal,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Selmer Paris,Trombón,2600
+Viento metal,Medio,Alto,Moderada,Alta,Acústico,Medio,No,Medio,Eastman ETB-840,Trombón,2300
+Viento metal,Medio,Medio,Fácil,Alta,Acústico,Medio,No,Medio,Armstrong 103,Trombón,600
+Viento metal,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Miraphone 56B,Trombón,1800
+Viento metal,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,King 3B,Trombón,3000
+Viento metal,Medio,Medio,Moderada,Media,Acústico,Medio,No,Medio,Yamaha YEB-321,Bombardino,2200
+Viento metal,Medio,Alto,Moderada,Alta,Acústico,Alto,No,Alto,Miraphone 281,Bombardino,4500
+Viento metal,Medio,Medio,Moderada,Media,Acústico,Medio,No,Medio,Getzen 1050,Bombardino,2500
+Viento metal,Alto,Alto,Moderada,Alta,Acústico,Alto,No,Alto,Willson 3400,Bombardino,6500
+Viento metal,Medio,Alto,Moderada,Alta,Acústico,Alto,No,Alto,Besson Sovereign 967,Bombardino,6000
+Viento metal,Medio,Alto,Moderada,Alta,Acústico,Alto,No,Alto,Jupiter JBS-1000,Bombardino,3500
+Viento metal,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,King 2280,Bombardino,2700
+Viento metal,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Eastman EBB-440,Bombardino,3000
+Viento metal,Medio,Alto,Moderada,Alta,Acústico,Alto,No,Alto,Schiller Elite,Bombardino,5000
+Viento metal,Medio,Medio,Fácil,Alta,Acústico,Medio,No,Medio,Amati ABJ-623,Bombardino,1500
+Viento metal,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Musica 5000,Bombardino,2300
+Viento metal,Alto,Alto,Moderada,Alta,Acústico,Alto,No,Alto,Adams EBC1,Bombardino,7000
+Viento metal,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Phoenix 440,Bombardino,1800
+Viento metal,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Miraphone 1291 Tuba,Tuba,9000
+Viento metal,Medio,Alto,Moderada,Alta,Acústico,Alto,No,Medio,Yamaha YEB-321,Tuba,7000
+Viento metal,Alto,Alto,Difícil,Media,Acústico,Alto,No,Alto,Willson 3050,Tuba,11000
+Viento metal,Medio,Medio,Moderada,Media,Acústico,Medio,No,Medio,Jupiter JTU1110,Tuba,3500
+Viento metal,Medio,Medio,Fácil,Baja,Acústico,Medio,No,Bajo,Besson 2050,Tuba,2500
+Viento metal,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Meinl Weston 2000,Tuba,12000
+Viento metal,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Adams Tuba E4,Tuba,10000
+Viento metal,Medio,Alto,Moderada,Media,Acústico,Alto,No,Alto,King 2341,Tuba,6000
+Viento metal,Medio,Medio,Moderada,Baja,Acústico,Medio,No,Medio,Conn 2J,Tuba,4000
+Viento metal,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Scherzer 2+2 Tuba,Tuba,13000
+Viento metal,Medio,Medio,Moderada,Media,Acústico,Medio,No,Medio,Amati 312,Tuba,3000
+Viento metal,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Schiller Professional Tuba,Tuba,8500
+Viento metal,Medio,Medio,Fácil,Alta,Acústico,Medio,No,Medio,Eastman EBB-542,Tuba,3200
+Percusión,Bajo,Medio,Fácil,Alta,Acústico,Bajo,No,Bajo,Meinl Percussion XR1 Xylophone,Xilófono,1500
+Percusión,Medio,Alto,Moderada,Media,Acústico,Medio,No,Medio,Yamaha YX-5000,Xilófono,2500
+Percusión,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Adams Concert Xylophone,Xilófono,4000
+Percusión,Medio,Medio,Fácil,Baja,Acústico,Medio,No,Bajo,Ludwig Musser M60B,Xilófono,1200
+Percusión,Bajo,Económico,Fácil,Media,Acústico,Bajo,No,Bajo,Schlagwerk XS-2000,Xilófono,600
+Percusión,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Grover Pro Professional Xylophone,Xilófono,2200
+Percusión,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Majestic Concert Xylophone,Xilófono,3500
+Percusión,Bajo,Económico,Fácil,Baja,Acústico,Bajo,No,Bajo,Musser M33B,Xilófono,1000
+Percusión,Medio,Medio,Moderada,Media,Acústico,Medio,No,Bajo,Lynn's Xylophone,Xilófono,900
+Percusión,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Musser M55B Xylophone,Xilófono,3000
+Percusión,Medio,Medio,Moderada,Media,Acústico,Medio,No,Medio,Meinl Percussion Professional Xylophone,Xilófono,1700
+Percusión,Bajo,Medio,Fácil,Alta,Acústico,Bajo,No,Bajo,Gon Bops Xylophone,Xilófono,1100
+Percusión,Alto,Alto,Difícil,Baja,Acústico,Alto,No,Alto,Adams Concert 4.3 Octave Xylophone,Xilófono,4800
+Percusión,Medio,Medio,Fácil,Media,Acústico,Medio,No,Bajo,Encore Percussion Xylophone,Xilófono,950
+Percusión,Bajo,Económico,Fácil,Alta,Acústico,Bajo,No,Bajo,Meinl Percussion Timbales,Timbales,350
+Percusión,Medio,Medio,Moderada,Media,Acústico,Medio,No,Medio,Ludwig Standard Timbales,Timbales,500
+Percusión,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,LP Classic Timbales,Timbales,900
+Percusión,Medio,Medio,Fácil,Media,Acústico,Medio,No,Medio,Paiste 900 Series Timbales,Timbales,600
+Percusión,Bajo,Económico,Fácil,Baja,Acústico,Bajo,No,Bajo,Meinl Percussion Travel Timbales,Timbales,250
+Percusión,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Yamaha Stage Custom Timbales,Timbales,750
+Percusión,Alto,Alto,Difícil,Media,Acústico,Alto,No,Alto,Adams Pro Timbales,Timbales,1100
+Percusión,Medio,Medio,Fácil,Baja,Acústico,Medio,No,Bajo,Gretsch 14" Timbales,Timbales,450
+Percusión,Alto,Alto,Moderada,Alta,Acústico,Alto,No,Alto,LP Salsa Timbales,Timbales,950
+Percusión,Bajo,Económico,Fácil,Media,Acústico,Bajo,No,Bajo,Meinl Sonic Energy Timbales,Timbales,300
+Percusión,Medio,Medio,Moderada,Alta,Acústico,Medio,No,Medio,Remo Timbales,Timbales,700
+Percusión,Bajo,Medio,Fácil,Baja,Acústico,Bajo,No,Bajo,Tycoon Percussion Timbales,Timbales,400
+Percusión,Medio,Medio,Moderada,Media,Acústico,Medio,No,Medio,LP 2-Ply Shell Timbales,Timbales,550
+Percusión,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Meinl Percussion Deluxe Timbales,Timbales,1200
+Percusión,Bajo,Económico,Fácil,Alta,Acústico,Alto,No,Bajo,Meinl Drumset,Batería,350
+Percusión,Medio,Medio,Moderada,Alta,Acústico,Alto,No,Medio,Yamaha Stage Custom,Batería,750
+Percusión,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,DW Collector's Series,Batería,2200
+Percusión,Medio,Medio,Fácil,Media,Acústico,Medio,No,Medio,Gretsch Catalina Club,Batería,550
+Percusión,Alto,Alto,Moderada,Alta,Eléctrico,Alto,No,Alto,Roland V-Drums TD27,Batería,2500
+Percusión,Medio,Medio,Fácil,Alta,Acústico,Alto,No,Medio,Ludwig Accent CS,Batería,600
+Percusión,Medio,Medio,Moderada,Media,Acústico,Alto,No,Medio,PDP Concept Maple,Batería,800
+Percusión,Bajo,Económico,Fácil,Media,Acústico,Medio,No,Bajo,Mapex Tornado,Batería,400
+Percusión,Alto,Alto,Difícil,Alta,Eléctrico,Alto,No,Alto,Alesis Strike Pro,Batería,2300
+Percusión,Medio,Medio,Moderada,Media,Acústico,Medio,No,Medio,Tama Imperialstar,Batería,650
+Percusión,Bajo,Económico,Fácil,Baja,Acústico,Bajo,No,Bajo,Target Drum Kit,Batería,250
+Percusión,Medio,Medio,Moderada,Alta,Acústico,Alto,No,Medio,Sonor AQ2,Batería,1000
+Percusión,Alto,Alto,Difícil,Alta,Eléctrico,Alto,No,Alto,Elektron Analog Rytm,Batería,1600
+Percusión,Medio,Medio,Fácil,Media,Acústico,Medio,No,Bajo,Pearl Export Series,Batería,700
+Percusión,Bajo,Económico,Fácil,Alta,Acústico,Medio,No,Bajo,LP City Series,Batería,350
+Percusión,Alto,Alto,Moderada,Alta,Eléctrico,Alto,No,Alto,TD-50K Roland,Batería,5000
+Percusión,Medio,Medio,Fácil,Alta,Eléctrico,Alto,No,Medio,Yamaha DTX522K,Batería,1200
+Percusión,Medio,Medio,Moderada,Media,Acústico,Medio,No,Medio,Mapex Saturn,Batería,1400
+Percusión,Alto,Alto,Difícil,Alta,Eléctrico,Alto,No,Alto,Acoustic Pro - Custom Kit,Batería,3000
+Percusión,Bajo,Económico,Fácil,Media,Acústico,Bajo,No,Bajo,Gretsch Energy Series,Batería,500
+Percusión,Medio,Medio,Moderada,Media,Acústico,Medio,No,Medio,Peavey Radial Kit,Batería,800
+Percusión,Medio,Alto,Moderada,Alta,Acústico,Medio,No,Medio,Handpan Symphonic,Handpan,2500
+Percusión,Alto,Alto,Moderada,Alta,Acústico,Alto,No,Alto,PanArt Hang Drum,Handpan,3000
+Percusión,Medio,Alto,Fácil,Media,Acústico,Bajo,No,Medio,Spacedrum Nitro,Handpan,2400
+Percusión,Medio,Alto,Moderada,Alta,Acústico,Medio,No,Medio,Hang Massive,Handpan,3200
+Percusión,Alto,Alto,Moderada,Alta,Acústico,Alto,No,Alto,Zenith Handpan,Handpan,2800
+Percusión,Medio,Alto,Fácil,Media,Acústico,Medio,No,Bajo,African Hang Drum,Handpan,2200
+Percusión,Medio,Alto,Moderada,Baja,Acústico,Medio,No,Medio,Odyssey Handpan,Handpan,2600
+Percusión,Alto,Alto,Difícil,Alta,Acústico,Alto,No,Alto,Earth Handpan,Handpan,3500
+Percusión,Medio,Alto,Fácil,Media,Acústico,Medio,No,Medio,Handpan Panart,Handpan,2300
+Percusión,Alto,Alto,Moderada,Media,Acústico,Alto,No,Medio,Anahata Handpan,Handpan,2700
